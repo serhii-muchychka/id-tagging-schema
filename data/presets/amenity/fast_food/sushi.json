@@ -1,0 +1,16 @@
+{
+    "icon": "temaki-temaki",
+    "geometry": [
+        "point",
+        "area"
+    ],
+    "tags": {
+        "amenity": "fast_food",
+        "cuisine": "sushi"
+    },
+    "reference": {
+        "key": "cuisine",
+        "value": "sushi"
+    },
+    "name": "Sushi Fast Food"
+}
