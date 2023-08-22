@@ -17,7 +17,8 @@
         "wheelchair"
     ],
     "geometry": [
-        "point"
+        "point",
+        "vertex"
     ],
     "terms": [
         "interactive kiosk",
